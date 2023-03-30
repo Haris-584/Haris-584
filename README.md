@@ -1,5 +1,11 @@
-- 👋 Hi, I’m Haris
-- 👀 I’m interested in machine learning, artificial intelligence, volunteer computing
-- 🌱 I’m currently learning many technologies (python, devops)
+- 👋 Hi, I’m Haris , a DevOps Engineer 
+- 👀 Cloud-Azure (Azure DevOps, Application Insight, App Services, Auto Scaling, VMs, Azure Vault)
+- 👀 Cloud-GCP (Compute, App Enginer) 
+- 👀 Cloud AWS (EC2, S3, CloudWatch IAM) 
+- 👀 CICD (Azure DevOps, GitHub Action, Jenkins )
+- 👀 Version Control (Git)
+- 👀 Monitoring ( Pingdom, Grafana, Prometheus, Application Insight, Uptime Kuma)
+- 👀 Containerization ( Docker )
+- 🌱 I’m currently learning new technologies and tools 
 - 📫 How to reach me ...email m.haris.cs584@gmail.com
 
